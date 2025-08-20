@@ -35,15 +35,15 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008100007</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">U.S. Senator and future Presidential candidate Barry Goldwater outlines key principles of the 20th century American conservative movement</dc:description>
+		<dc:description id="description">U.S. Senator and future Republican Presidential nominee Barry Goldwater outlines key principles of the 20th century American conservative movement.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;U.S. Senator and future Presidential candidate &lt;a href="https://standardebooks.org/ebooks/barry-goldwater"&gt;Barry Goldwater's&lt;/a&gt; 1960 book &lt;i&gt;The Conscience of a Conservative&lt;/i&gt; is a foundational work in the American conservative movement from the late 20th century and onward into the modern day. It lays out the conservative position on a number of topics including taxation, labor, welfare, education, and the general roles of state and federal government and would prove highly influential to future conservative politicians in establishing their own platforms.&lt;/p&gt;
-			&lt;p&gt;Goldwater offers his case for a strict Constitutionalist government in which the role of the federal government is restricted mostly to those things called out explicitly in the constitution, with all other matters being the responsibility of the states to manage independently.&lt;/p&gt;
+			&lt;p&gt;U.S. Senator and future Republican Presidential nominee &lt;a href="https://standardebooks.org/ebooks/barry-goldwater"&gt;Barry Goldwater’s&lt;/a&gt; 1960 book &lt;i&gt;The Conscience of a Conservative&lt;/i&gt; is a foundational work in the American conservative movement from the late 20th century and onward into the modern day. It lays out the conservative position on a number of topics including taxation, labor, welfare, education, and the general roles of state and federal government and would prove highly influential to future conservative politicians in establishing their own platforms.&lt;/p&gt;
+			&lt;p&gt;Goldwater offers his case for a strict Constitutionalist government in which the role of the federal government is restricted to those things called out explicitly in the constitution, with all other matters being the responsibility of the states to manage independently.&lt;/p&gt;
 			&lt;p&gt;In the final chapter of the book, Goldwater describes his view of the stakes of the Cold War, and the importance of containing the spread of Communism broadly and the Soviet Union in particular.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/74319</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uc1.32106001171484</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/001141317</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Conscience_of_a_Conservative</meta>
@@ -58,7 +58,7 @@
 		<dc:contributor id="artist">De Lancey Gill</dc:contributor>
 		<meta property="file-as" refines="#artist">Gill, De Lancey</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/DeLancey_W._Gill</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/no2019079025.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2019079025</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Tim Lindell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Lindell, Tim</meta>
