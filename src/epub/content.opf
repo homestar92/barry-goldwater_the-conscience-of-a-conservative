@@ -34,43 +34,44 @@
 		<meta property="term" refines="#subject-1">sh85140455</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008100007</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Nonfiction</meta>
+		<dc:description id="description">U.S. Senator and future Presidential candidate Barry Goldwater outlines key principles of the 20th century American conservative movement</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;U.S. Senator and future Presidential candidate &lt;a href="https://standardebooks.org/ebooks/barry-goldwater"&gt;Barry Goldwater's&lt;/a&gt; 1960 book &lt;i&gt;The Conscience of a Conservative&lt;/i&gt; is a foundational work in the American conservative movement from the late 20th century and onward into the modern day. It lays out the conservative position on a number of topics including taxation, labor, welfare, education, and the general roles of state and federal government and would prove highly influential to future conservative politicians in establishing their own platforms.&lt;/p&gt;
+			&lt;p&gt;Goldwater offers his case for a strict Constitutionalist government in which the role of the federal government is restricted mostly to those things called out explicitly in the constitution, with all other matters being the responsibility of the states to manage independently.&lt;/p&gt;
+			&lt;p&gt;In the final chapter of the book, Goldwater describes his view of the stakes of the Cold War, and the importance of containing the spread of Communism broadly and the Soviet Union in particular.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/74319</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uc1.32106001171484</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Conscience_of_a_Conservative</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/barry-goldwater_the-conscience-of-a-conservative</meta>
 		<dc:creator id="author">Barry Goldwater</dc:creator>
 		<meta property="file-as" refines="#author">Goldwater, Barry</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Barry Morris Goldwater</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Barry_Goldwater</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79144788</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">De Lancey Gill</dc:contributor>
+		<meta property="file-as" refines="#artist">Gill, De Lancey</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/DeLancey_W._Gill</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/no2019079025.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Tim Lindell</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Lindell, Tim</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Craig Kirkwood</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Kirkwood, Craig</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Jonathan Erdman</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Erdman, Jonathan</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
