@@ -48,3 +48,9 @@ section > header [epub|type~="epigraph"] + *{
 [epub|type~="z3998:acronym"]{
 	font-variant: all-small-caps;
 }
+
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
