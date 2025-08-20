@@ -23,3 +23,7 @@
 	font-style: italic;
 }
 /* End all epigraphs */
+
+[epub|type~="z3998:acronym"]{
+	font-variant: all-small-caps;
+}
